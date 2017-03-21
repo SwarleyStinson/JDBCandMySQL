@@ -17,7 +17,6 @@ public class PreparedStatementMain {
         Connection connection = null;
         PreparedStatement preparedStatement = null;
 
-
         try {
 //          Создаем драйвер для MySQL и регистрируем его в DriverManager
             Driver driver = new FabricMySQLDriver();

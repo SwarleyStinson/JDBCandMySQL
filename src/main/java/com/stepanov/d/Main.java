@@ -22,6 +22,10 @@ public class Main {
                 user.setUsername(resultSet.getString("username"));
                 user.setPassword(resultSet.getString("password"));
 
+                /*
+                * TODO: check git
+                * */
+
                 System.out.println(user);
             }
         } catch (SQLException e) {
