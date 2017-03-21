@@ -2,6 +2,10 @@ package com.stepanov.d;
 
 public class User {
 
+    /*
+    TODO: change on github
+    */
+    
     private int id;
     private String username;
     private String password;
