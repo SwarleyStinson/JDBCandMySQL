@@ -23,8 +23,8 @@ public class Main {
                 user.setPassword(resultSet.getString("password"));
 
                 /*
-                * TODO: check git
-                * */
+                    TODO: check git
+                */
 
                 System.out.println(user);
             }
