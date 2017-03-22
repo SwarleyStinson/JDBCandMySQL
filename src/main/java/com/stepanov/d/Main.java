@@ -23,6 +23,7 @@ public class Main {
                 user.setPassword(resultSet.getString("password"));
 
                 /*
+                    non commit changes!!!
                     TODO: check git
                 */
 
