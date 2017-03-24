@@ -3,7 +3,7 @@ package com.stepanov.d;
 public class User {
 
     /*
-    TODO: change on github
+    TODO: 2 change on github
     */
     
     private int id;
