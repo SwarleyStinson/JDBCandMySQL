@@ -23,10 +23,7 @@ public class Main {
                 user.setPassword(resultSet.getString("password"));
 
                 /*
-                    commit
-                    qwerty
-                    non commit changes!!!
-                    TODO: check git
+                    TODO: this is APP-97
                 */
 
                 System.out.println(user);
