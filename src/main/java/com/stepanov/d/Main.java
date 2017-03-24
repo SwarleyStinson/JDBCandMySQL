@@ -23,7 +23,7 @@ public class Main {
                 user.setPassword(resultSet.getString("password"));
 
                 /*
-                    TODO: this is APP-97
+                    TODO: check git
                 */
 
                 System.out.println(user);

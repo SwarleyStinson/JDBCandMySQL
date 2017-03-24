@@ -5,6 +5,9 @@ public class User {
     /*
     TODO: change on github
     */
+    /*
+    todo: CHANGE
+    */
     
     private int id;
     private String username;
