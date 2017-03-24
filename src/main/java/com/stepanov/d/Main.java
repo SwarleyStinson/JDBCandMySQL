@@ -23,8 +23,9 @@ public class Main {
                 user.setPassword(resultSet.getString("password"));
 
                 /*
-                    non commit changes!!!
                     TODO: check git
+                    new changes!!!
+                    TODO: this is APP-97
                 */
 
                 System.out.println(user);
